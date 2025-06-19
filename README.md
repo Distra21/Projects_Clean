@@ -5,3 +5,6 @@ Welcome to my GitHub portfolio! This repository contains the key data analytics 
 Table of Contents
 
 Sales and Customer KPI Dashboard
+
+HR Dashboards - Workforce Compensation Dashboard, Attrition adn Risk Dashboard, and Executive Summary Dashboard.
+
