@@ -6,10 +6,10 @@ Table of Contents
 
 Sales and Customer KPI Dashboard
 
-HR Dashboard
+- HR Dashboard
 
-Heart_Attack_Executive_Summary
+- Heart_Attack_Executive_Summary
 
-Sales_KPI_Dashboard
+- Sales_KPI_Dashboard
 
-Sales_and_Custoomer_Dashboards_.twbx
+- Sales_and_Custoomer_Dashboards_.twbx
